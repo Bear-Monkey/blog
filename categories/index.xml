@@ -6,20 +6,11 @@
     <description>Recent content in Categories on Let&#39;s Go！熊猴探索趣部落格｜Food,Life,Travel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 14 Jun 2022 10:00:00 +0800</lastBuildDate><atom:link href="https://bear-monkey.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Go Language</title>
-      <link>https://bear-monkey.github.io/blog/categories/go-language/</link>
-      <pubDate>Tue, 14 Jun 2022 10:00:00 +0800</pubDate>
-      
-      <guid>https://bear-monkey.github.io/blog/categories/go-language/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 17 Jun 2022 10:00:00 +0800</lastBuildDate><atom:link href="https://bear-monkey.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>趣日子 Life</title>
       <link>https://bear-monkey.github.io/blog/categories/%E8%B6%A3%E6%97%A5%E5%AD%90-life/</link>
-      <pubDate>Tue, 14 Jun 2022 10:00:00 +0800</pubDate>
+      <pubDate>Fri, 17 Jun 2022 10:00:00 +0800</pubDate>
       
       <guid>https://bear-monkey.github.io/blog/categories/%E8%B6%A3%E6%97%A5%E5%AD%90-life/</guid>
       <description></description>
@@ -28,7 +19,7 @@
     <item>
       <title>趣淘憩 Travel</title>
       <link>https://bear-monkey.github.io/blog/categories/%E8%B6%A3%E6%B7%98%E6%86%A9-travel/</link>
-      <pubDate>Tue, 14 Jun 2022 10:00:00 +0800</pubDate>
+      <pubDate>Fri, 17 Jun 2022 10:00:00 +0800</pubDate>
       
       <guid>https://bear-monkey.github.io/blog/categories/%E8%B6%A3%E6%B7%98%E6%86%A9-travel/</guid>
       <description></description>
@@ -37,27 +28,9 @@
     <item>
       <title>趣饕鮮 Food</title>
       <link>https://bear-monkey.github.io/blog/categories/%E8%B6%A3%E9%A5%95%E9%AE%AE-food/</link>
-      <pubDate>Tue, 14 Jun 2022 10:00:00 +0800</pubDate>
+      <pubDate>Fri, 17 Jun 2022 10:00:00 +0800</pubDate>
       
       <guid>https://bear-monkey.github.io/blog/categories/%E8%B6%A3%E9%A5%95%E9%AE%AE-food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML &amp; CSS</title>
-      <link>https://bear-monkey.github.io/blog/categories/html-css/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://bear-monkey.github.io/blog/categories/html-css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming Language</title>
-      <link>https://bear-monkey.github.io/blog/categories/programming-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://bear-monkey.github.io/blog/categories/programming-language/</guid>
       <description></description>
     </item>
     
