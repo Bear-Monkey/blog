@@ -2,31 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bear-monkey.github.io/blog/categories/</loc>
-    <lastmod>2022-02-28T10:00:00+08:00</lastmod>
+    <loc>https://bear-monkey.github.io/blog/contact/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
     <loc>https://bear-monkey.github.io/blog/</loc>
-    <lastmod>2022-02-28T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://bear-monkey.github.io/blog/tags/</loc>
-    <lastmod>2022-02-28T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://bear-monkey.github.io/blog/tags/%E5%A8%9B%E6%A8%82/</loc>
-    <lastmod>2022-02-28T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://bear-monkey.github.io/blog/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-02-28T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://bear-monkey.github.io/blog/tags/%E7%BE%8E%E9%A3%9F/</loc>
-    <lastmod>2022-02-28T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://bear-monkey.github.io/blog/categories/%E8%B6%A3%E6%97%A5%E5%AD%90-life/</loc>
-    <lastmod>2022-02-28T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://bear-monkey.github.io/blog/blog/20220228/</loc>
-    <lastmod>2022-02-28T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://bear-monkey.github.io/blog/contact/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
     <loc>https://bear-monkey.github.io/blog/search/</loc>
@@ -35,6 +14,10 @@
     <loc>https://bear-monkey.github.io/blog/blog/</loc>
     <lastmod>2019-10-29T13:49:23+08:00</lastmod>
   </url><url>
+    <loc>https://bear-monkey.github.io/blog/categories/</loc>
+  </url><url>
     <loc>https://bear-monkey.github.io/blog/about/</loc>
+  </url><url>
+    <loc>https://bear-monkey.github.io/blog/tags/</loc>
   </url>
 </urlset>
